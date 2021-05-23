@@ -1,1 +1,1 @@
-## a simple html redirect for http://discord.finnsmp.ml
+## a simple html redirect for https://discord.finnsmp.ml
